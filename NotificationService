@@ -1,0 +1,3 @@
+interface NotificationService {
+    void send(Employee emp, String message);
+}
